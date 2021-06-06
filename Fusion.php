@@ -5,7 +5,7 @@ if (!isset($_SESSION))
 }
 class Fusion
 {
-    private static $BaseURL = "https://fusionapi.dev/app/911896/api";
+    private static $BaseURL = "https://fusionapi.dev/app/{APPID}/api";
     private static $ExecuteURL = "https://fusionapi.dev/executeapi/";
 
 	public static function Check42FA($username)
