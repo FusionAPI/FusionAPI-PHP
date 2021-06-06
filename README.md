@@ -1,9 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
 <p align="center">
   <a href="https://fusionapi.dev/">
     <img src="https://i.imgur.com/oeEET0y.png" alt="Logo" width="80" height="80">
