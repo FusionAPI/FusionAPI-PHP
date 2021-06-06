@@ -8,7 +8,7 @@ class Fusion
     private static $BaseURL = "https://fusionapi.dev/app/{APPID}/api";
     private static $ExecuteURL = "https://fusionapi.dev/executeapi/";
 
-	public static function Check42FA($username)
+    public static function Check42FA($username)
     {
         $ch = curl_init(self::$BaseURL);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
